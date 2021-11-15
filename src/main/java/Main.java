@@ -9,6 +9,7 @@ public class Main {
 
         factory.buildCar(car2);
         factory.buildCar(car2);
+        factory.buildCar(car3);
     }
 }
 
