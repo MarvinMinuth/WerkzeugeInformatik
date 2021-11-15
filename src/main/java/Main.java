@@ -8,6 +8,6 @@ public class Main {
         Car car3 = new Car("blue", "VW", 3);
 
         factory.buildCar(car1);
-        factory.buildCar(car2);
+        factory.buildCar(car3);
     }
 }
